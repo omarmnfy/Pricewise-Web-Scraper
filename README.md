@@ -22,14 +22,17 @@ This project is particularly important for consumers who want to stay ahead of p
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tech Stack</title>
     <style>
         .tech-stack {
             display: flex;
             flex-wrap: wrap;
             gap: 10px; /* Add some space between the icons */
         }
+        a {
+            text-decoration: none; /* Remove the blue underline */
+        }
     </style>
-    <title>Tech Stack</title>
 </head>
 <body>
     <div class="tech-stack">
@@ -57,6 +60,7 @@ This project is particularly important for consumers who want to stay ahead of p
     </div>
 </body>
 </html>
+
 
 
 ## Features
