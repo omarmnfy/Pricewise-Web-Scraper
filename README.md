@@ -9,7 +9,7 @@
 
 ## Introduction
 
-Welcome to our eCommerce price tracking project, a powerful tool built using Next.js and Bright Data's webunlocker. This project aims to assist users in making informed purchasing decisions by monitoring product prices and availability on popular platforms like Amazon. By utilizing web scraping, users can be notified of price drops or out-of-stock alerts, allowing them to optimize their shopping experience.
+Welcome to the eCommerce price tracking project: Pricewise, a powerful tool built using Next.js and Bright Data's webunlocker. This project aims to assist users in making informed purchasing decisions by monitoring product prices and availability on popular platforms like Amazon. By utilizing web scraping, users can be notified of price drops or out-of-stock alerts, allowing them to optimize their shopping experience.
 
 Web scraping is the process of automatically extracting data from websites. It enables us to gather information at scale, which would be impractical to do manually. In this project, we use web scraping to collect product details, such as pricing and stock status, which are then presented to users through a visually appealing interface.
 
